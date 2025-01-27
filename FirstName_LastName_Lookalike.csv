@@ -1,0 +1,282 @@
+{
+  "C0001": [
+    {
+      "customer_id": "C0005",
+      "similarity_score": 0.7979490777696284
+    },
+    {
+      "customer_id": "C0069",
+      "similarity_score": 0.7178882332957109
+    },
+    {
+      "customer_id": "C0130",
+      "similarity_score": 0.6830583960307572
+    }
+  ],
+  "C0002": [
+    {
+      "customer_id": "C0060",
+      "similarity_score": 0.7916308964161232
+    },
+    {
+      "customer_id": "C0062",
+      "similarity_score": 0.7797867936123406
+    },
+    {
+      "customer_id": "C0025",
+      "similarity_score": 0.7518784861308391
+    }
+  ],
+  "C0003": [
+    {
+      "customer_id": "C0144",
+      "similarity_score": 0.9026763164844874
+    },
+    {
+      "customer_id": "C0091",
+      "similarity_score": 0.7027703238175489
+    },
+    {
+      "customer_id": "C0151",
+      "similarity_score": 0.6788113607600865
+    }
+  ],
+  "C0004": [
+    {
+      "customer_id": "C0113",
+      "similarity_score": 0.8707977758556246
+    },
+    {
+      "customer_id": "C0075",
+      "similarity_score": 0.8573520783026023
+    },
+    {
+      "customer_id": "C0017",
+      "similarity_score": 0.8281472584271435
+    }
+  ],
+  "C0005": [
+    {
+      "customer_id": "C0130",
+      "similarity_score": 0.8392985334197347
+    },
+    {
+      "customer_id": "C0001",
+      "similarity_score": 0.7979490777696284
+    },
+    {
+      "customer_id": "C0197",
+      "similarity_score": 0.7336273328066426
+    }
+  ],
+  "C0006": [
+    {
+      "customer_id": "C0138",
+      "similarity_score": 0.7948832741184855
+    },
+    {
+      "customer_id": "C0196",
+      "similarity_score": 0.78213286102625
+    },
+    {
+      "customer_id": "C0200",
+      "similarity_score": 0.7646658843380241
+    }
+  ],
+  "C0007": [
+    {
+      "customer_id": "C0166",
+      "similarity_score": 0.668704257103733
+    },
+    {
+      "customer_id": "C0005",
+      "similarity_score": 0.6429421843120027
+    },
+    {
+      "customer_id": "C0197",
+      "similarity_score": 0.6420822121992005
+    }
+  ],
+  "C0008": [
+    {
+      "customer_id": "C0093",
+      "similarity_score": 0.8924473149725964
+    },
+    {
+      "customer_id": "C0090",
+      "similarity_score": 0.8670775084851632
+    },
+    {
+      "customer_id": "C0084",
+      "similarity_score": 0.7627358330806678
+    }
+  ],
+  "C0009": [
+    {
+      "customer_id": "C0058",
+      "similarity_score": 0.9282655969847603
+    },
+    {
+      "customer_id": "C0198",
+      "similarity_score": 0.797655875307375
+    },
+    {
+      "customer_id": "C0150",
+      "similarity_score": 0.7951235561596066
+    }
+  ],
+  "C0010": [
+    {
+      "customer_id": "C0030",
+      "similarity_score": 0.8422421202455652
+    },
+    {
+      "customer_id": "C0062",
+      "similarity_score": 0.7950804914842231
+    },
+    {
+      "customer_id": "C0034",
+      "similarity_score": 0.7938151998251369
+    }
+  ],
+  "C0011": [
+    {
+      "customer_id": "C0153",
+      "similarity_score": 0.8181450006703305
+    },
+    {
+      "customer_id": "C0107",
+      "similarity_score": 0.7622244334904765
+    },
+    {
+      "customer_id": "C0070",
+      "similarity_score": 0.7515047827045436
+    }
+  ],
+  "C0012": [
+    {
+      "customer_id": "C0059",
+      "similarity_score": 0.8268477044012625
+    },
+    {
+      "customer_id": "C0065",
+      "similarity_score": 0.8181611346566594
+    },
+    {
+      "customer_id": "C0057",
+      "similarity_score": 0.7252410650037343
+    }
+  ],
+  "C0013": [
+    {
+      "customer_id": "C0046",
+      "similarity_score": 0.8319354112105289
+    },
+    {
+      "customer_id": "C0105",
+      "similarity_score": 0.8067565438908672
+    },
+    {
+      "customer_id": "C0141",
+      "similarity_score": 0.8030552263652204
+    }
+  ],
+  "C0014": [
+    {
+      "customer_id": "C0097",
+      "similarity_score": 0.9415914524176509
+    },
+    {
+      "customer_id": "C0060",
+      "similarity_score": 0.9060127132672386
+    },
+    {
+      "customer_id": "C0128",
+      "similarity_score": 0.8967641299386512
+    }
+  ],
+  "C0015": [
+    {
+      "customer_id": "C0128",
+      "similarity_score": 0.8638561599952034
+    },
+    {
+      "customer_id": "C0076",
+      "similarity_score": 0.786578305039936
+    },
+    {
+      "customer_id": "C0052",
+      "similarity_score": 0.7446018876737472
+    }
+  ],
+  "C0016": [
+    {
+      "customer_id": "C0044",
+      "similarity_score": 0.8252425634611141
+    },
+    {
+      "customer_id": "C0042",
+      "similarity_score": 0.7658363117960896
+    },
+    {
+      "customer_id": "C0107",
+      "similarity_score": 0.7313276013956536
+    }
+  ],
+  "C0017": [
+    {
+      "customer_id": "C0004",
+      "similarity_score": 0.8281472584271435
+    },
+    {
+      "customer_id": "C0075",
+      "similarity_score": 0.8263696180323566
+    },
+    {
+      "customer_id": "C0068",
+      "similarity_score": 0.8070650255914638
+    }
+  ],
+  "C0018": [
+    {
+      "customer_id": "C0114",
+      "similarity_score": 0.8904709805304377
+    },
+    {
+      "customer_id": "C0148",
+      "similarity_score": 0.827920231296751
+    },
+    {
+      "customer_id": "C0087",
+      "similarity_score": 0.8188306655937584
+    }
+  ],
+  "C0019": [
+    {
+      "customer_id": "C0047",
+      "similarity_score": 0.7859517370781969
+    },
+    {
+      "customer_id": "C0119",
+      "similarity_score": 0.7844826454637351
+    },
+    {
+      "customer_id": "C0121",
+      "similarity_score": 0.7836151114660624
+    }
+  ],
+  "C0020": [
+    {
+      "customer_id": "C0050",
+      "similarity_score": 0.8648142435179619
+    },
+    {
+      "customer_id": "C0130",
+      "similarity_score": 0.8500712655708618
+    },
+    {
+      "customer_id": "C0120",
+      "similarity_score": 0.8387343238089167
+    }
+  ]
+}
